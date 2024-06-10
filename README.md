@@ -3,5 +3,4 @@
 
 # YouTube Tutorial
 
-https://youtu.be/tyvPJdyFBJU
-
+https://www.youtube.com/playlist?list=PL2MbO-e5SBC53gxv4onhsFs2vHp_FVlLL
